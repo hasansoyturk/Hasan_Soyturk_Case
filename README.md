@@ -1,2 +1,2 @@
-mvn install\n
+mvn install
 mvn test
